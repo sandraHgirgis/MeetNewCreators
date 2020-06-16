@@ -1,13 +1,14 @@
 ## Welcome to My First GitHub Page:
 
-I am glad you are here! On this page, you will be able to know more about me.
+I am glad you are here! 
+On this page, you will be able to know more about me.
 
-You can use the [editor on GitHub](https://github.com/sandraHgirgis/First-Website-SandraGirgis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Use the [editor on GitHub](https://github.com/sandraHgirgis/First-Website-SandraGirgis/edit/master/README.md) to preview my website in Markdown files.
 
 
 ### Meet Sandra Girgis
 
-![My Image](https...tID=108844)
+![My Image](https://parents.ebnet.org/genesis/sis/photos?type=student&studentID=108844)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
