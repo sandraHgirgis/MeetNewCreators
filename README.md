@@ -10,10 +10,15 @@ Use the [editor on GitHub](https://github.com/sandraHgirgis/First-Website-Sandra
 
 ![My Image](https://parents.ebnet.org/genesis/sis/photos?type=student&studentID=108844)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+
+**NAME:** Sandra Girgis
+**GRADE:** 11th Grade
+**SCHOOL:** East Brunswick High Shool
+**SOCIAL MEDIA USERNAMES:** 
+- FaceBook: Sandra Hany
+- Snapchat: sandra_girgis26
 
 # Header 1
 ## Header 2
