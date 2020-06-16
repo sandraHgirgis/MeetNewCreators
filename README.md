@@ -13,9 +13,8 @@ Use the [editor on GitHub](https://github.com/sandraHgirgis/First-Website-Sandra
 
 My Name is Sandra Girgis. I am in 11th Grade in East Brunswick High School. About 5 years ago, I moved from Egypt to America. It was hard in the beginning because I could not speak English. Then two years ago, I moved from school districts to East Brunswick. I live with my mom, dad, and my 13 year old brother. 
 
-Hear are some facts about me!
+### Hear are some facts about me!
 
-```markdown
 **NAME:** Sandra Girgis
 
 **GRADE:** 11th Grade 
