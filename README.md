@@ -1,12 +1,12 @@
 ## Welcome to My First GitHub Page:
 
 I am glad you are here! 
-On this page, you will be able to know more about me.
+On this page, you will be able to meet a new creator and learn more about them.
 
 Use the [editor on GitHub](https://github.com/sandraHgirgis/First-Website-SandraGirgis/edit/master/README.md) to preview my website in Markdown files.
 
 
-### Meet Sandra Girgis
+### About Me!
 
 ![My Image](https://parents.ebnet.org/genesis/sis/photos?type=student&studentID=108844)
 
