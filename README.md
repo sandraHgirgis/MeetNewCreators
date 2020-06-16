@@ -17,21 +17,30 @@ Hear are some facts about me!
 
 ```markdown
 **NAME:** Sandra Girgis
+
 **GRADE:** 11th Grade 
+
 **SCHOOL:** East Brunswick High Shool
+
 **SOCIAL MEDIA USERNAMES:** 
 - FaceBook: Sandra Hany
 - Snapchat: sandra_girgis26
+
 **BIRTHDAY:** November 26, 2002
+
 **CURRENT JOB:** None
+
 **SPORTS:** Swimming and cycling
+
 **FAVORITE COLOR:** Purple
+
 **HOBBIES:** 
 - drawing
 - baking
 - playing the piano
 - knitting
 - camping
+
 **AWARDS/ACCOMPLISHMENTS:** 
 - Salutatorian in 8th grade 
 - Speak three languages: Arabic, French, and English
